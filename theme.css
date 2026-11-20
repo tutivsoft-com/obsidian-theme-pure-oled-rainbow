@@ -1,4 +1,4 @@
-/* Pure OLED Rainbow 1.0.0. MIT. */
+/* Pure OLED Rainbow 1.0.1. MIT. */
 
 body.theme-dark {
   color-scheme: dark;
@@ -443,6 +443,10 @@ body.theme-light {
 .workspace-tab-header:nth-child(3n+2) .workspace-tab-header-inner-icon { color: var(--color-green); }
 .workspace-tab-header:nth-child(3n+3) .workspace-tab-header-inner-icon { color: var(--color-orange); }
 body { --bold-color: var(--color-pink); --italic-color: var(--color-orange); }
+
+.markdown-source-view.mod-cm6 .cm-contentContainer > .cm-content {
+  padding-inline: 8px;
+}
 
 .workspace-leaf-content :focus-visible,
 .modal :focus-visible,

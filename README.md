@@ -2,7 +2,7 @@
 
 Pure black and pure white Obsidian surfaces with colourful folders, menus and note headings.
 
-Version 1.0.0. Modes supported: Dark and light. Tested in Obsidian 1.15.1 on Windows.
+Source version 1.0.1. Modes supported: Dark and light. Tested in Obsidian 1.15.1 on Windows.
 
 The 20-colour sequence rotates by sibling order and shifts according to the parent folder. Colours remain stable as you browse. Sorting or moving folders can change their place in the sequence.
 
